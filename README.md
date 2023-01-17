@@ -1,3 +1,12 @@
+# Was zu tun:
+
+[ ] find a way to select the models, namely a way to choose the models to test
+[ ] Find a way to test the models by reading training time for number of epoch (from 1 to 20). Do not use the timing from fastai, but calculate it your self
+[ ] Collect everything in a dictionary and save it as txt file
+[ ] Plot everything in a nice way. Basically, do some data visualization
+
+
+
 # RAW cars dataset
 
 This repository contains 225 RAW images of scenes containing cars.
